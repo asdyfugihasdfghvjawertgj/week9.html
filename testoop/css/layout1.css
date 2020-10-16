@@ -1,0 +1,13 @@
+.div2{
+	height: 100px;
+}
+.card1,.card2,.card3{
+	border: 1px solid black;
+	height: 100px;
+}
+.container{
+	margin-top: 20px;
+}
+.footer{
+	margin-top: 20px;
+}
